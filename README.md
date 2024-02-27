@@ -1,12 +1,15 @@
 **Retail Sale Data Analysis Using Power BI**
 
 **Introduction**
+
 This project showcases a comprehensive analysis of retail sales data through a Power BI dashboard. The primary goal is to glean insights into sales trends, the impact of discounts on sales, and to identify peak sales hours across different city locations.
 
 **Dataset Description**
+
 The dataset used in this project pertains to retail sales transactions. Each record represents a transaction with details such as transaction date, hour, location, number of items, amount of sale, coupon flag and discount amount. For privacy reasons, the dataset source cannot be shared publicly.
 
 **Transformations and Assumptions**
+
 During the data preparation phase, the following transformations and assumptions were made:
 
 Time Transformation: The original dataset contained transaction times as dates; these were transformed to hours to facilitate analysis of peak sales periods.
@@ -20,9 +23,11 @@ Dashboard 1: Analyzes peak sales hours across different cities, enabling the ide
 Dashboard 2: Explores the correlation between sales amounts and discounts applied, offering insights into the effectiveness of discounts on sales performance.
 
 **Usage**
+
 To interact with the dashboard:
 Use the slicers to filter data by city, date, and other relevant dimensions.
 Hover over visual elements to see detailed data points and trends.
 
 **Requirements**
+
 Power BI Desktop (latest version recommended) is required to interact with the .pbix file included in the repository.
